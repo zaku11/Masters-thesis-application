@@ -1,0 +1,2 @@
+def expectedAnswer():
+    return None
